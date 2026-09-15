@@ -16,8 +16,8 @@ If you are completely new to MLOps, read our [DevOps to MLOps guide](https://dev
 - [What We Build](#what-we-build)
 - [Prerequisites](#prerequisites)
 - [Tech Stack](#tech-stack)
-- [Phase 1: Local Dev & Pipelines](#phase-1-local-development--data-pipelines)
-- [Phase 2: Enterprise Orchestration for ML](#phase-2-enterprise-orchestration-for-ml)
+- [Phase 1: Local Dev & Pipelines](#phase-1-local-development--data-pipelines-start-here)
+- [Phase 2: Enterprise Orchestration for ML](#phase-2-enterprise--orchestration-for-ml)
 - [Recommended MLOps Reading](#recommended-reading)
 ---
 
