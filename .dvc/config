@@ -1,4 +1,4 @@
 [core]
     remote = ml-dataset
 ['remote "ml-dataset"']
-    url = s3://dcube-attrition-data/datasets
+    url = s3://dcube-attrition-data-20092026/datasets/
